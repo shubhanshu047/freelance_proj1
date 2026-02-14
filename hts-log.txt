@@ -1,0 +1,56 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 01 Feb 2026 19:19:53 at https://doccure.dreamstechnologies.com/html/template/index.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+Rabale, Navi Mumbai
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://doccure.dreamstechnologies.com/html/template/index.html -O1 "C:\My Web Sites\docnashik" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+
+
+Information, Warnings and Errors reported for this mirror:
+
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+
+	such as username/password authentication for websites mirrored in this project
+
+	do not share these files/folders if you want these information to remain private
+
+
+
+19:33:36	Error: 	"Not Found" (404) at link https://doccure.dreamstechnologies.com/html/template/assets/fonts/iconsax.eot?yjegnn (from https://doccure.dreamstechnologies.com/html/template/assets/css/iconsax.css)
+
+19:33:36	Error: 	"Not Found" (404) at link https://doccure.dreamstechnologies.com/html/template/assets/fonts/iconsax.woff?yjegnn (from https://doccure.dreamstechnologies.com/html/template/assets/css/iconsax.css)
+
+19:33:36	Error: 	"Not Found" (404) at link https://doccure.dreamstechnologies.com/html/template/assets/fonts/iconsax.svg?yjegnn (from https://doccure.dreamstechnologies.com/html/template/assets/css/iconsax.css)
+
+19:33:36	Error: 	"Not Found" (404) at link https://doccure.dreamstechnologies.com/html/template/assets/plugins/slick/fonts/slick.svg (from https://doccure.dreamstechnologies.com/html/template/assets/plugins/slick/slick-theme.css)
+
+19:33:36	Error: 	"Not Found" (404) at link https://doccure.dreamstechnologies.com/html/template/assets/img/bg/home13-menu-img-1.png (from https://doccure.dreamstechnologies.com/html/template/assets/css/style.css)
+
+19:33:36	Error: 	"Not Found" (404) at link https://doccure.dreamstechnologies.com/html/template/assets/img/icons/.svg (from https://doccure.dreamstechnologies.com/html/template/assets/css/style.css)
+
+19:33:37	Error: 	"Not Found" (404) at link https://doccure.dreamstechnologies.com/html/template/assets/img/flag/india.png (from https://doccure.dreamstechnologies.com/html/template/assets/css/style.css)
+
+19:33:37	Error: 	"Not Found" (404) at link https://doccure.dreamstechnologies.com/html/template/assets/img/flag/ng.png (from https://doccure.dreamstechnologies.com/html/template/assets/css/style.css)
+
+19:33:37	Error: 	"Not Found" (404) at link https://doccure.dreamstechnologies.com/html/template/assets/img/flag/gb.png (from https://doccure.dreamstechnologies.com/html/template/assets/css/style.css)
+
+19:33:37	Error: 	"Not Found" (404) at link https://doccure.dreamstechnologies.com/html/template/assets/img/flag/usa.png (from https://doccure.dreamstechnologies.com/html/template/assets/css/style.css)
+
+19:33:40	Warning: 	Retry after error -4 (No data (connection closed)) at link https://doccure.dreamstechnologies.com/html/template/assets/img/icons/faq-shadow-1.png (from https://doccure.dreamstechnologies.com/html/template/index-11.html)
+
+19:34:08	Error: 	"Not Found" (404) at link https://doccure.dreamstechnologies.com/html/template/admin/assets/img/preview-banner.jpg (from https://doccure.dreamstechnologies.com/html/template/admin/index.html)
+
+19:35:05	Error: 	"Not Found" (404) at link https://doccure.dreamstechnologies.com/html/template/patient-personalize.html (from https://doccure.dreamstechnologies.com/html/template/patient-details.html)
+
+19:35:06	Error: 	"Not Found" (404) at link https://doccure.dreamstechnologies.com/html/template/assets/css/owl.video.play.png (from https://doccure.dreamstechnologies.com/html/template/assets/css/owl.carousel.min.css)
+
+19:35:11	Error: 	"Not Found" (404) at link https://doccure.dreamstechnologies.com/html/template/admin/assets/plugins/fancybox/jquery.fancybox.min.js (from https://doccure.dreamstechnologies.com/html/template/admin/login.html)
+
+19:35:11	Error: 	"Not Found" (404) at link https://doccure.dreamstechnologies.com/html/template/pharmacy/assets/plugins/fancybox/jquery.fancybox.min.js (from https://doccure.dreamstechnologies.com/html/template/pharmacy/login.html)
+
+19:35:11	Error: 	"Not Found" (404) at link https://doccure.dreamstechnologies.com/html/template/patient-email-otp.html (from https://doccure.dreamstechnologies.com/html/template/patient-email.html)
+
+
+
+HTTrack Website Copier/3.49-2 mirror complete in 15 minutes 18 seconds : 1452 links scanned, 1434 files written (167264563 bytes overall) [138667592 bytes received at 151054 bytes/sec], 77232863 bytes transferred using HTTP compression in 668 files, ratio 61%, 121.0 requests per connection
+
+(16 errors, 1 warnings, 0 messages)
+
